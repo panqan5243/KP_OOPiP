@@ -139,6 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Classes.h" />
     <ClCompile Include="Func.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
